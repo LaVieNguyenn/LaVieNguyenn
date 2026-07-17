@@ -119,20 +119,6 @@ Currently growing toward a **Tech Lead** role — focusing on
     </td>
   </tr>
 </table>
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LaVieNguyenn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaVieNguyenn&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=LaVieNguyenn&theme=tokyonight&hide_border=true&border_radius=8" height="220" />
-</div>
 
 ---
 
